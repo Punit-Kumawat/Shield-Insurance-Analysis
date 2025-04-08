@@ -59,47 +59,43 @@ I created a dashboard with three key sections:
 
  1 - Target High-Revenue Segments :
 
- •The 31-40 age group contributes the highest revenue ($166.73M). Marketing campaigns should be 
-tailored to attract and retain this group.
- •The 65+ age group is the second-highest revenue generator ($145.23M), indicating a strong preference 
-for policies among senior citizens.
+ • The 31-40 age group contributes the highest revenue ($166.73M). Marketing campaigns should be tailored to attract and retain this group.
+
+ • The 65+ age group is the second-highest revenue generator ($145.23M), indicating a strong preference for policies among senior citizens.
 
  2 - City-Specific Strategy :
 
- •Delhi NCR, Mumbai, and Hyderabad generate the highest revenue and have the most customers. Focus 
-on improving customer experience and retention strategies in these cities.
- •Indore and Chennai have lower revenues but a notable number of customers, indicating potential for 
-growth.
+ • Delhi NCR, Mumbai, and Hyderabad generate the highest revenue and have the most customers. Focus on improving customer experience and retention strategies in these cities.
+
+ • Indore and Chennai have lower revenues but a notable number of customers, indicating potential for growth.
 
  3 - Optimize Sales Channels :
 
- •Offline-Agent sales contribute the highest number of customers (14,873). Investing in training and incentives for agents can boost sales further.
- •Online-App and Website sales are significantly lower. A strong digital marketing campaign and an easy-to-use 
-interface can improve online sales.
+ • Offline-Agent sales contribute the highest number of customers (14,873). Investing in training and incentives for agents can boost sales further.
+ 
+ • Online-App and Website sales are significantly lower. A strong digital marketing campaign and an easy-to-use interface can improve online sales.
 
 4 - Improve Policy Offerings :
 
- •POL2005HEL and POL1048HEL generate the highest revenue. These policies should be further 
-promoted.
- •Lower revenue policies (e.g., POL4321HEL) should be reviewed for better pricing or improved 
-benefits to attract customers.
+ • POL2005HEL and POL1048HEL generate the highest revenue. These policies should be further promoted.
+ 
+ • Lower revenue policies (e.g., POL4321HEL) should be reviewed for better pricing or improved benefits to attract customers.
 
  5 - Enhance Customer Retention :
 
- •Repeat customers can be encouraged through loyalty programs, renewal discounts, and targeted 
-follow-ups.
- •Analyzing why certain policies have higher repeat customers can help refine offerings.
+ • Repeat customers can be encouraged through loyalty programs, renewal discounts, and targeted follow-ups.
+ 
+ • Analyzing why certain policies have higher repeat customers can help refine offerings.
 
  6 - Seasonal Trends :
 
- • March shows a peak in new customers. Special offers or discounts should be launched before this 
-period to maximize conversions.
+ • March shows a peak in new customers. Special offers or discounts should be launched before this period to maximize conversions.
+ 
  • Other months have lower numbers; introducing seasonal campaigns can help maintain steady sales.
 
  7 - Engage Young Customers :
 
- Analyze why customers aged 18-30 show less interest in purchasing insurance policies. Develop affordable and 
-customized plans tailored to their needs and financial situation to attract this age group.
+ Analyze why customers aged 18-30 show less interest in purchasing insurance policies. Develop affordable and customized plans tailored to their needs and financial situation to attract this age group.
 
 
 ## 🛠 Tools Used:
