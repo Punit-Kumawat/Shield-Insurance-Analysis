@@ -23,6 +23,25 @@ Fact_Premiums – Records of premium payments made by customers
 
 Fact_Settlements – Details of insurance claims and settlements
 
+## Dashboard Overview - 
+
+I created a dashboard with three key sections:
+
+**Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
+
+![home page](https://github.com/Punit-Kumawat/Shield-Insurance-Analysis/blob/main/Screenshot%202025-04-08%20173226.png)
+
+**General Analysis -** Provides a high-level summary of revenue and customer distribution with monthly trends to monitor overall growth.
+
+**Sales Mode Analysis -** Offers insights into revenue and customer data across different sales modes to assess their performance.
+
+**Age Group Analysis -** Analyzes policy sales and revenue by age group to highlight the most valuable customer segments.
+
+## Insights -
+
+## Recommendations -
+
+
 ## 🛠 Tools Used:
 - Power BI
 - Microsoft Excel
